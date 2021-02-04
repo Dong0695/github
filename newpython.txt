@@ -1,0 +1,5 @@
+linux
+pwd
+netstat 
+find
+int
